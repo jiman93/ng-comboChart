@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Germany",
+        "series": [
+        {
+            "name": "2010",
+            "value": 7300000
+        },
+        {
+            "name": "2011",
+            "value": 8940000
+        }
+        ]
+    },
+
+    {
+        "name": "USA",
+        "series": [
+        {
+            "name": "2010",
+            "value": 6870000
+        },
+        {
+            "name": "2011",
+            "value": 8270000
+        }
+        ]
+    },
+    {
+        "name": "Finland",
+        "series": [
+        {
+            "name": "2010",
+            "value": 2870000
+        },
+        {
+            "name": "2011",
+            "value": 5270000
+        }
+        ]
+    },
+    {
+        "name": "Kenya",
+        "series": [
+        {
+            "name": "2010",
+            "value": 3870000
+        },
+        {
+            "name": "2011",
+            "value": 4270000
+        }
+        ]
+    },
+    {
+        "name": "Colombia",
+        "series": [
+        {
+            "name": "2010",
+            "value": 1870000
+        },
+        {
+            "name": "2011",
+            "value": 2270000
+        }
+        ]
+    },
+
+    {
+        "name": "France",
+        "series": [
+        {
+            "name": "2010",
+            "value": 1000002
+        },
+        {
+            "name": "2011",
+            "value": 5800000
+        }
+        ]
+    }
+]
